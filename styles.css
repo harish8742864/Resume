@@ -1,0 +1,59 @@
+#header{
+    padding: 15px;
+    color:white;
+    text-align: right;
+    font-size: 16px;
+    background-color: rgb(145, 137, 127);
+    height: 250px;
+   
+   
+}
+#details{
+    position: relative;
+    top:80px;
+}
+#name{
+    text-align: left;
+    position: relative;
+    right: 120px;
+    font-size: 36px;
+    float: left;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#photo{
+    position: relative;
+    left: 20px;
+    top: 100px;
+    border-radius: 75px; 
+    float: left;
+}
+#skill{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item {
+    color: white;
+    text-transform: uppercase;
+   background-color: teal;
+   margin: 10px;
+    border: 2px solid teal;
+    border-radius: 8px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.heading{
+    font-size: large;
+    color: rgb(27, 95, 95);
+}
+#Certification{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
